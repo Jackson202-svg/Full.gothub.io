@@ -3,3 +3,6 @@ description: Player stats, Warzone news, and RowdyRogan playlists
 remote_theme: jekyll/theme-name  # Replace theme-name with your preferred theme
 plugins:
   - jekyll-remote-theme
+sass:
+style: compressed
+
